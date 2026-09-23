@@ -26,3 +26,7 @@ This release includes:
 - Login validation
 - Merge conflict resolution
 - Bug fixes and release preparation
+
+## Order Management
+
+Order management improvements are under development.
