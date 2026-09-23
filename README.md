@@ -26,3 +26,7 @@ This release includes:
 - Login validation
 - Merge conflict resolution
 - Bug fixes and release preparation
+
+## Payment UI Improvements
+
+Payment interface improvements are planned for a future release.
